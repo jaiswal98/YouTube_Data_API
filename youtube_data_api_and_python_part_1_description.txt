@@ -1,0 +1,50 @@
+In this video series, we will be building a Python script that utilizes PyTube; a Python module used for downloading video content from YouTube in addition to the YouTube Data API provided from Google and YouTube to directly access specific metadata from YouTube URLs. 
+
+In this project, we process a list of YouTube URLs and download the respective title, description, and high-quality download of the video at the link.
+
+This is a mini-project that showcases something that you can build from the ground up and something that hopefully you can expand upon!
+
+Some other playlists on this channel that may be of interest to you:
+Web Scraping and Automation Playlist:
+bit.ly/web_automation
+
+Selenium Playlist:
+bit.ly/lp_selenium
+
+Robobrowser Playlist:
+bit.ly/robobrowser
+
+Scrapy Playlist:
+bit.ly/lp_scrapy
+
+Software that is written in this video:
+https://github.com/vprusso/youtube_tutorials/tree/master/youtube_python
+
+Part 1:
+Part 2:
+Part 3:
+Part 4:
+
+Do you like the development environment I'm using in this video? It's a customized version of vim that's enhanced for Python development. If you want to see how I set up my vim, I have a series on this here:
+http://bit.ly/lp_vim
+
+If you've found this video helpful and want to stay up-to-date with the latest videos posted on this channel, please subscribe:
+http://bit.ly/lp_subscribe
+
+If you like my content, I've been working on some projects during the past couple of months. If you would like to stay up-to-date, please consider subscribing to my mail list. I really appreciate the support. I hope that the content I provide there will enhance the videos on my YouTube page:  
+http://bit.ly/lp_email
+
+== Support and Subscribe==
+If I've helped you, feel free to buy me a beer :)
+PayPal: https://www.paypal.me/VincentRusso1
+
+If you've found this video helpful and want to stay up-to-date with the latest videos posted on this channel, please subscribe:
+http://bit.ly/lp_subscribe
+
+== Video Sponsor==
+This video is brought to you by DevMountain, a private coding boot camp that offers in-person and online courses in a variety of subjects including web development, mobile programming, user experience design, software quality assurance, and salesforce development.
+
+Promo Link:
+https://devmountain.com/?utm_source=Lucid%20Programming
+
+#youtubeapi #python #automation
