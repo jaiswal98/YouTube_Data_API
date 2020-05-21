@@ -62,16 +62,17 @@ for youtube_url in content:
 
 	yt_stats.download_video(youtube_url, title)
 
-# s = "https://www.youtube.com/watch?v=ZkYOvViSx3E"
-	# t = "Nural Network in Python: Part 1 -- Part A"
-# helper = Helper()
-# print(helper.id_from_url(s))
-# print(helper.title_to_underscore_title(t))
-# video_id = "ZkYOvViSx3E"
+# Fetching data in JSON Format
+s = "https://www.youtube.com/watch?v=ZkYOvViSx3E"
+t = "Nural Network in Python: Part 1 -- Part A"
+helper = Helper()
+print(helper.id_from_url(s))
+print(helper.title_to_underscore_title(t))
+video_id = "ZkYOvViSx3E"
 
 
-# json_url = urllib.request.urlopen(url)
-# data = json.loads(json_url.read())
+json_url = urllib.request.urlopen(url)
+data = json.loads(json_url.read())
 
-# print(data)
+print(data)
 
